@@ -1,0 +1,8 @@
+name: Hardcore
+author: rex2go
+version: "1.0"
+main: eu.rex2go.hardcore.Hardcore
+api-version: "1.13"
+
+commands:
+  head:
